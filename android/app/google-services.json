@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847976045418",
+    "project_id": "asynconf-b1f4e",
+    "storage_bucket": "asynconf-b1f4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847976045418:android:cd0080c285bdb7da82e313",
+        "android_client_info": {
+          "package_name": "com.example.croc_top"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBlkYGKqY2dFyKE13FHLEGxfhCBBaeFVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
